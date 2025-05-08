@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+📫 Always open to a hello!
 <!--
 **laura-sou/laura-sou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
